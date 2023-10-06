@@ -34,7 +34,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
  justify-content: center;
  align-items: center;
 }
-
+.front-end{
+    font-weight: 30px;
+}
 .container .ring{
 position: relative;
 width:150px;
@@ -44,7 +46,7 @@ border-radius: 50%;
 } 
 .container .ring:nth-child(3){
     position: absolute;
-    
+
 }
 .nav-links li{
     display: inline-block;
